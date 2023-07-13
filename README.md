@@ -1,10 +1,10 @@
 <img src="artwork/OASIS-Primary-Logo-Full-Colour.png" width="400">
 
-# [Open Project name]
+# Recycled Commodities Foundation (ReCoF)
 
-[Open Project name] is an [OASIS Open Project](https://oasis-open-projects.org/) [purpose statement goes here.]
+The Recycled Commodities Foundation (ReCoF) is an [OASIS Open Project](https://oasis-open-projects.org/) is an open forum for diverse stakeholders to create universally accepted definitions, specifications and standards for determining, obtaining, and verifying the authenticity, quality and provenance of authenticated recycled commodities in furtherance of promoting global circularity and the creation of environmental assets.
 
-For more information on [Open Project short name], see the project's website at [url].
+For more information on ReCoF, see the project's website at [TBD].
 
 For more information on the goals of this effort, see the [project charter](./CHARTER.md). 
 
